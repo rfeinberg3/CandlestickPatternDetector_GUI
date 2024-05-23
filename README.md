@@ -57,20 +57,26 @@ The class also includes methods to detect various candlestick patterns such as:
 
 ## Screenshots
 
-![Main Form](Screenshots/MainForm.png)
 *Main Form.*
 
-![Open File Dialog](Screenshots/FileDialog.png)
+![Main Form](Screenshots/MainForm.png)
+
 *Select stock folder(s) to display.*
 
-![Generic Display Form](Screenshots/GenericStockForm.png)
+![Open File Dialog](Screenshots/FileDialog.png)
+
 *Displays the stock data in candlestick and volume format.* 
 
-![Pattern Detection](Screenshots/AnnotatedStockForm.png)
+![Generic Display Form](Screenshots/GenericStockForm.png)
+
 *Displaying detected candlestick patterns with annotations given the combobox selection.*
 
-![OOP Approach](Screenshots/OOP.png)
+![Pattern Detection](Screenshots/AnnotatedStockForm.png)
+
 *Files and code are formated in an Object-Oriented Programming style.* 
+
+![OOP Approach](Screenshots/OOP.png)
+
 
 ## Comments and Documentation
 
